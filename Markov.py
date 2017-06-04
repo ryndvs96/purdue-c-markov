@@ -6,7 +6,7 @@ def main(argv):
     with open("db/corpus.txt") as f:
         text = f.read()
     # Build the model.
-    text_model = markovify.Text(text)
+    text_model = markovify.NewlineText(text, state_size=3)
 
     # Print five randomly-generated sentences
     for i in range(5):
