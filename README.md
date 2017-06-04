@@ -20,3 +20,17 @@ After mining all the data into `db/corpus.txt` you're done! Just kidding, but it
 
 `Markov.py` simply uses the [markovify](https://github.com/jsvine/markovify) python library to generate the model. From there you can go on to use markovify's methods as you wish, or export the model as a `model.json` file to save for later.
 
+## Example Chains!
+
+> Phone rings, it”s the neighbors: “Can you put the garlic in a room full of racists, bigots, terrorists, killers, rapists, pedophiles, and so are you sure you're ok?
+
+> I don't understand why they had to make a move but I have never been good when it comes to guys.
+
+> For video games and all the research published so far; 99% is shit.
+
+> Is it socially acceptable to make out with anyone random.
+
+> I'm at 350lb and fluffy, but I came in, but because I have a pretty chivalrous guy and girl that will help her when talking to me that I'm a straight up left to do it and I don't think he is so strong between us, I'm thankful for all their food frozen.
+
+They don't always make sense, but it's fun to see what the model comes up with!
+
