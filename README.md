@@ -20,6 +20,17 @@ After mining all the data into `db/corpus.txt` you're done! Just kidding, but it
 
 `Markov.py` simply uses the [markovify](https://github.com/jsvine/markovify) python library to generate the model. From there you can go on to use markovify's methods as you wish, or export the model as a `model.json` file to save for later.
 
+Then just run everything:
+
+To load an existing model from `db/model.json`:
+```
+python3 Markov.py -l
+```
+To refresh the whole model and refresh `db/corpus.txt`:
+```
+python3 Markov.py -r
+```
+
 ## Example Chains!
 
 > Phone rings, it”s the neighbors: “Can you put the garlic in a room full of racists, bigots, terrorists, killers, rapists, pedophiles, and so are you sure you're ok?
