@@ -1,4 +1,6 @@
 
 config.json
 db/corpus.txt
+polling-markov/config.json
+polling-markov/db/corpus.txt
 
