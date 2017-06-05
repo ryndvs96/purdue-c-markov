@@ -1,6 +1,8 @@
 
-config.json
-db/corpus.txt
+__pycache__
+src/__pychache__
+src/config.json
+src/db/corpus.txt
 polling-markov/config.json
 polling-markov/db/corpus.txt
 
