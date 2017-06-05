@@ -3,6 +3,6 @@ __pycache__
 src/__pychache__
 src/config.json
 src/db/corpus.txt
-polling-markov/config.json
-polling-markov/db/corpus.txt
+group-feed-markov/config.json
+group-feed-markov/db/corpus.txt
 
