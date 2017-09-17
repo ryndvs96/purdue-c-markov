@@ -3,6 +3,4 @@ __pycache__
 src/__pychache__
 src/config.json
 src/db/*
-group-feed-markov/config.json
-group-feed-markov/db/*
 
